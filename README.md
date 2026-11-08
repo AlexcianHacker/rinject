@@ -1,5 +1,5 @@
-# rinject
-# AKA injectR And injectoR 
+# <p align="center"> rinject
+# <p align="center"> AKA injectR And injectoR 
 <p align="center"> Simple CLI Linux/Unix Utility, Rewritten In RS From C++ Originally 
 <p align="center"> Originally Compiled With rustc 
 
