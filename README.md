@@ -6,7 +6,7 @@
 ### Setup  
 Run `rustc -o rinject inject.cpp`
 
-Note (rustc): -O3 Optimizations ?? 
+Note (rustc): -C opt-level=3 Optimizations Tested As Working 
 
 ### Usage  
 `rinject <File> <Line Number> <Content,...>`
