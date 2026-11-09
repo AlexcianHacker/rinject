@@ -4,7 +4,7 @@
 <p align="center"> Originally Compiled With rustc 
 
 ### Setup  
-Run `rustc -o rinject inject.cpp`
+Run `rustc -o rinject rinject.cpp`
 
 Note (rustc): `-C opt-level=3` Optimizations Tested As Working 
 
